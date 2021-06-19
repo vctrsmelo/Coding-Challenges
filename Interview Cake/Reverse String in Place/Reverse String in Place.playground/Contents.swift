@@ -1,3 +1,7 @@
+/*
+ Write a function that takes an array of characters and reverses the letters in place.
+ */
+
 //O(n) time complexity
 //O(1) space complexity
 func reverse(_ list: inout [Character]) {
